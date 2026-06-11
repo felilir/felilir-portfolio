@@ -1,0 +1,35 @@
+{
+  "slug": "ddhub",
+  "title": "The new Duoc Design HUB",
+  "client": "DDHUB",
+  "year": "2024",
+  "tags": [
+    "Motion",
+    "Design",
+    "Art Direction"
+  ],
+  "thumbnail": "/images/projects/ddhub/thumb.jpg",
+  "heroImage": "/images/projects/ddhub/hero.jpg",
+  "heroVideo": null,
+  "videoEmbed": "https://www.youtube.com/embed/lHLxoo_vBgQ",
+  "description": "A high-production brand film for DDHUB, a digital innovation hub connecting startups, enterprises, and investors across Latin America. The piece positions DDHUB as the definitive meeting point between technology ambition and real-world impact.",
+  "challenge": "DDHUB operates in an ecosystem crowded with accelerators, coworking spaces, and tech funds — all speaking the same language of 'innovation' and 'disruption'. The challenge was to communicate a clear point of differentiation through visual storytelling rather than buzzwords.",
+  "solution": "Built around a single visual metaphor: connection. The film uses a continuous, unbroken visual thread that moves through environments, people, and data — never stopping, always evolving. Motion graphics and live-action footage were composited to create a seamless, forward-moving narrative.",
+  "result": "The film became DDHUB's primary outreach asset for investor and partnership conversations. It has been used in pitch presentations, event openings, and their website — and remains their most-viewed owned content piece.",
+  "role": "Motion Designer & Director",
+  "tools": [
+    "After Effects",
+    "Premiere",
+    "Illustrator",
+    "Photoshop"
+  ],
+  "duration": "6 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/ddhub/1.jpg",
+    "/images/projects/ddhub/2.jpg",
+    "/images/projects/ddhub/3.jpg",
+    "/images/projects/ddhub/Thumbnail DDHUB.jpg"
+  ],
+  "featured": false
+}

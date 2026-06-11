@@ -1,0 +1,37 @@
+{
+  "slug": "ilunstuck",
+  "title": "Illustration tools",
+  "client": "Illunstuck",
+  "year": "2022",
+  "tags": [
+    "Design",
+    "Art Direction",
+    "Social Media"
+  ],
+  "thumbnail": "/images/projects/ilunstuck/thumb.jpg",
+  "heroImage": "/images/projects/ilunstuck/thumb.jpg",
+  "heroVideo": null,
+  "videoEmbed": null,
+  "description": "A complete brand identity for Ilunstuck, a creative coaching and productivity platform helping professionals break through creative blocks. The visual identity needed to balance the seriousness of professional development with the energy of creative liberation.",
+  "challenge": "Ilunstuck sits between two worlds: the structured world of professional coaching and the expressive world of creative work. Most competitors chose one or the other — Ilunstuck needed an identity that lived confidently in both.",
+  "solution": "Built an identity around controlled tension: structured geometric forms that break open, revealing texture and color. The typographic system uses a contrast between rigid grid alignment and deliberate rule-breaking moments — a visual metaphor for the product itself.",
+  "result": "The brand launched to strong community reception, with founder-led social posts featuring the identity driving over 200k organic impressions in the first week. The design has been widely shared within Chilean design and startup communities.",
+  "role": "Brand Designer",
+  "tools": [
+    "Illustrator",
+    "Figma",
+    "Photoshop"
+  ],
+  "duration": "6 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/ilunstuck/1.jpg",
+    "/images/projects/ilunstuck/2.jpg",
+    "/images/projects/ilunstuck/3.png",
+    "/images/projects/ilunstuck/4.jpg",
+    "/images/projects/ilunstuck/5.jpg",
+    "/images/projects/ilunstuck/6.jpg",
+    "/images/projects/ilunstuck/Thumbnail.jpg"
+  ],
+  "featured": false
+}

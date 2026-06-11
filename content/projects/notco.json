@@ -1,0 +1,34 @@
+{
+  "slug": "notco",
+  "title": "Meet: NotPaté",
+  "client": "NotCo",
+  "year": "2023",
+  "tags": [
+    "Design",
+    "Art Direction",
+    "Social Media"
+  ],
+  "thumbnail": "/images/projects/notco/thumb.jpg",
+  "heroImage": "/images/projects/notco/thumb.jpg",
+  "heroVideo": null,
+  "videoEmbed": null,
+  "description": "A series of motion graphic assets for NotCo, the AI-powered food technology company behind Not Burger, Not Milk and Not Chicken — one of Latin America's most recognizable food-tech brands.",
+  "challenge": "NotCo's content team needed high-velocity animated assets for product launches and social campaigns that could match the energy of a fast-moving consumer brand while staying on-brand with their bold, punchy visual identity.",
+  "solution": "Developed a rapid-production motion template system in After Effects that allowed NotCo's team to swap product shots and copy while maintaining full animation quality. Designed for speed without sacrificing craft.",
+  "result": "The template system reduced asset production time by 60% for their in-house team. Over 40 animated posts were produced across three product lines in a single quarter.",
+  "role": "Motion Designer",
+  "tools": [
+    "After Effects",
+    "Photoshop",
+    "Illustrator"
+  ],
+  "duration": "4 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/notco/1.jpg",
+    "/images/projects/notco/2.jpg",
+    "/images/projects/notco/3.jpg",
+    "/images/projects/notco/Thumbnail.jpg"
+  ],
+  "featured": true
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "trajectory",
+  "title": "We are Trajectory",
+  "client": "Trajectory",
+  "year": "2022",
+  "tags": [
+    "Motion",
+    "Design",
+    "Art Direction"
+  ],
+  "thumbnail": "/images/projects/trajectory/thumb.jpg",
+  "heroImage": "/images/projects/trajectory/hero.jpg",
+  "heroVideo": null,
+  "videoEmbed": "https://www.youtube.com/embed/lI55B7AVLcI",
+  "description": "A complete brand identity and motion design system for Trajectory, a tech-forward consultancy. The project delivered a visual language built for both digital and print applications, paired with a suite of animated assets for presentations and social media.",
+  "challenge": "Trajectory was a new brand entering a crowded B2B market. They needed an identity strong enough to stand out in pitch decks and professional settings, while feeling dynamic enough for social media campaigns aimed at younger talent audiences.",
+  "solution": "Developed a bold typographic identity centered on geometric precision and controlled motion. The animation system uses tight timing and directional movement to reinforce the brand name itself — everything moves with purpose and direction. Delivered as a full brand guideline plus an After Effects toolkit.",
+  "result": "Trajectory launched with 100% brand consistency across all channels from day one. Their pitch deck, using the motion-branded templates, helped close their first two enterprise clients within 90 days of launch.",
+  "role": "Brand Designer & Motion Designer",
+  "tools": [
+    "Illustrator",
+    "After Effects",
+    "Figma",
+    "InDesign"
+  ],
+  "duration": "7 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/trajectory/1.jpg",
+    "/images/projects/trajectory/1.png",
+    "/images/projects/trajectory/2.png",
+    "/images/projects/trajectory/4.jpg",
+    "/images/projects/trajectory/5.jpg",
+    "/images/projects/trajectory/6.jpg",
+    "/images/projects/trajectory/7.jpg",
+    "/images/projects/trajectory/8.jpg",
+    "/images/projects/trajectory/Thumbnail.jpg"
+  ],
+  "featured": true
+}

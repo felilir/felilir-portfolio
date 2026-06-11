@@ -1,0 +1,37 @@
+{
+  "slug": "sig",
+  "title": "Industrial Design System",
+  "client": "SIG",
+  "year": "2026",
+  "tags": [
+    "Design",
+    "Art Direction",
+    "Social Media"
+  ],
+  "thumbnail": "/images/projects/sig/thumb.png",
+  "heroImage": "/images/projects/sig/thumb.png",
+  "heroVideo": null,
+  "videoEmbed": "https://www.youtube.com/embed/8k2y4D3Ialo?si=jR2Yez6bnNqZc3eu",
+  "description": "A comprehensive design system, social strategy and art direction for SIG, showcasing industrial precision and modern technical branding.",
+  "challenge": "Developing a consistent visual language that translates industrial technical workflows into approachable digital formats and social media assets.",
+  "solution": "Designed a cohesive graphic library of schematic blueprints, high-contrast layouts, and clean typographic assets that elevate industrial service offerings.",
+  "result": "Established a modern, professional brand footprint across digital channels, ensuring consistency and brand recall.",
+  "role": "Lead Graphic Designer",
+  "tools": [
+    "Illustrator",
+    "Photoshop",
+    "After Effects"
+  ],
+  "duration": "4 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/sig/1.png",
+    "/images/projects/sig/2.png",
+    "/images/projects/sig/3.png",
+    "/images/projects/sig/4.png",
+    "/images/projects/sig/5.png",
+    "/images/projects/sig/6.png",
+    "/images/projects/sig/Thumbnail.png"
+  ],
+  "featured": false
+}

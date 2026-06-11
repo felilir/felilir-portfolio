@@ -1,0 +1,41 @@
+{
+  "slug": "tiny",
+  "title": "Gaming live stream",
+  "client": "Tiny House Club",
+  "year": "2019",
+  "tags": [
+    "Design",
+    "Art Direction",
+    "Social Media"
+  ],
+  "thumbnail": "/images/projects/tiny/thumb.png",
+  "heroImage": "/images/projects/tiny/thumb.png",
+  "heroVideo": null,
+  "videoEmbed": null,
+  "description": "A complete live streaming brand package for Tiny House Club, a Twitch and YouTube channel dedicated to minimalist living, tiny house design, and intentional lifestyle content. Delivered as a full stream overlay system, animated stinger, social panels, and offline screens.",
+  "challenge": "Live streaming aesthetics tend toward either high-tech gaming styles or generic template looks. Tiny House Club needed something that felt like the content itself: warm, considered, and distinctly non-corporate.",
+  "solution": "Designed around natural textures, muted earth tones, and hand-crafted typographic elements. The stinger animation uses a reveal inspired by architectural drawings unfolding — a subtle nod to the tiny house world. Every asset was built in OBS-compatible formats for immediate stream deployment.",
+  "result": "The rebrand coincided with a 40% increase in average concurrent viewers over the following three months. The visual package has been featured in two 'best stream layouts' round-ups within the Twitch design community.",
+  "role": "Brand Designer & Motion Designer",
+  "tools": [
+    "Illustrator",
+    "After Effects",
+    "Photoshop"
+  ],
+  "duration": "3 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/tiny/1.png",
+    "/images/projects/tiny/2.png",
+    "/images/projects/tiny/3.png",
+    "/images/projects/tiny/4.png",
+    "/images/projects/tiny/5.png",
+    "/images/projects/tiny/6.png",
+    "/images/projects/tiny/7.png",
+    "/images/projects/tiny/8.png",
+    "/images/projects/tiny/9.png",
+    "/images/projects/tiny/10.png",
+    "/images/projects/tiny/Thumbnail.png"
+  ],
+  "featured": false
+}

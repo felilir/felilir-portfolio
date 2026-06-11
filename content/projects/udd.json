@@ -1,0 +1,41 @@
+{
+  "slug": "udd",
+  "title": "Design Challenges",
+  "client": "UDD",
+  "year": "2025",
+  "tags": [
+    "Motion",
+    "Design"
+  ],
+  "thumbnail": "/images/projects/udd/thumb.png",
+  "heroImage": "/images/projects/udd/hero.png",
+  "heroVideo": null,
+  "videoEmbed": "https://www.youtube.com/embed/k27klasbnns",
+  "description": "A motion graphics campaign for Universidad del Desarrollo (UDD), one of Chile's leading private universities. The project delivered animated content for institutional communications, student recruitment campaigns, and digital advertising across social media platforms.",
+  "challenge": "UDD needed to communicate its academic offering and campus culture to a digitally-native prospective student audience, competing against established institutions with higher brand recognition. Generic university advertising wasn't going to cut through.",
+  "solution": "Developed a kinetic visual system using UDD's brand colors and typography in dynamic, high-energy compositions — designed to stop thumbs mid-scroll. Short-form sequences optimized for Instagram Reels and TikTok were paired with longer narrative pieces for YouTube.",
+  "result": "The campaign exceeded digital reach targets by 2.4× during the enrollment window and contributed to a record application intake for UDD's innovation and design programs.",
+  "role": "Motion Designer",
+  "tools": [
+    "After Effects",
+    "Illustrator",
+    "Premiere"
+  ],
+  "duration": "4 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/udd/1.png",
+    "/images/projects/udd/2.png",
+    "/images/projects/udd/3.png",
+    "/images/projects/udd/4.png",
+    "/images/projects/udd/6.png",
+    "/images/projects/udd/7.png",
+    "/images/projects/udd/8.png",
+    "/images/projects/udd/9.png",
+    "/images/projects/udd/10.png",
+    "/images/projects/udd/11.png",
+    "/images/projects/udd/12.png",
+    "/images/projects/udd/Thumbnail.png"
+  ],
+  "featured": false
+}

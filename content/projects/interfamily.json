@@ -1,0 +1,38 @@
+{
+  "slug": "interfamily",
+  "title": "Travel with your pet",
+  "client": "Interfamily",
+  "year": "2018",
+  "tags": [
+    "Design",
+    "Art Direction"
+  ],
+  "thumbnail": "/images/projects/interfamily/thumb.png",
+  "heroImage": "/images/projects/interfamily/hero.png",
+  "heroVideo": null,
+  "videoEmbed": "https://www.youtube.com/embed/g7xvopoVpPU?si=hgusq77_aYx4RE82",
+  "description": "A fully animated explainer film for Interfamily, a platform facilitating international family connections and support services for Latin American families with relatives working or studying abroad. The film simplifies a complex emotional and logistical proposition into a clear, warm visual story.",
+  "challenge": "Interfamily's service addresses a genuinely complex human need — maintaining family bonds across borders while navigating practical and legal challenges. The brief required the film to feel emotionally resonant without being sentimental, and informative without being dry.",
+  "solution": "Built around character-driven 2D animation with a warm, hand-crafted aesthetic. The visual style deliberately avoids the clean-but-cold look of most fintech animation, opting instead for textured illustration and fluid transitions that mirror the human warmth of the brand's mission.",
+  "result": "The explainer film became Interfamily's primary conversion asset on their landing page, increasing contact form submissions by 38% in the month following launch.",
+  "role": "Motion Designer & Art Director",
+  "tools": [
+    "After Effects",
+    "Illustrator",
+    "Premiere",
+    "Audition"
+  ],
+  "duration": "5 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/interfamily/1.png",
+    "/images/projects/interfamily/2.png",
+    "/images/projects/interfamily/3.jpg",
+    "/images/projects/interfamily/4.png",
+    "/images/projects/interfamily/5.png",
+    "/images/projects/interfamily/7.png",
+    "/images/projects/interfamily/8.png",
+    "/images/projects/interfamily/Thumbnail.png"
+  ],
+  "featured": false
+}

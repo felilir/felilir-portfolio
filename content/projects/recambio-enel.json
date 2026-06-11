@@ -1,0 +1,33 @@
+{
+  "slug": "recambio-enel",
+  "title": "Enel replacement plan",
+  "client": "Enel X",
+  "year": "2024",
+  "tags": [
+    "Motion",
+    "Design"
+  ],
+  "thumbnail": "/images/projects/recambio-enel/thumb.png",
+  "heroImage": "/images/projects/recambio-enel/hero.png",
+  "heroVideo": null,
+  "videoEmbed": "https://www.youtube.com/embed/u7rG3nbfZBo",
+  "description": "A two-part motion campaign for Enel Chile's 'Recambio' program — a government-backed initiative replacing old gas and electric appliances with efficient alternatives. Delivered as two separate explainer videos targeting residential customers across Chile.",
+  "challenge": "Government energy programs are notorious for dry, compliance-driven communication. Enel needed to explain a complex multi-step program (eligibility, application, delivery, installation) in a way that felt accessible and motivating for everyday families.",
+  "solution": "Designed a warm, character-driven visual language that centers real domestic environments. Clear iconography, step-by-step sequencing, and approachable voiceover pacing make even the bureaucratic steps feel manageable. Both videos were optimized for Facebook and YouTube pre-roll formats.",
+  "result": "The Recambio program exceeded registration targets by 35% in the campaign period. Enel's regional communications team adopted the visual style as the standard for future residential campaign materials.",
+  "role": "Motion Designer & Art Director",
+  "tools": [
+    "After Effects",
+    "Illustrator",
+    "Premiere",
+    "Audition"
+  ],
+  "duration": "5 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/recambio-enel/1.png",
+    "/images/projects/recambio-enel/2.png",
+    "/images/projects/recambio-enel/Thumbnail.png"
+  ],
+  "featured": false
+}

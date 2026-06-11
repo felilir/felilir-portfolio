@@ -1,0 +1,33 @@
+{
+  "slug": "brand-reveal-tironi",
+  "title": "New frontiers",
+  "client": "Tironi",
+  "year": "2018",
+  "tags": [
+    "Motion"
+  ],
+  "thumbnail": "/images/projects/brand-reveal-tironi/thumb.png",
+  "heroImage": "/images/projects/brand-reveal-tironi/hero.jpg",
+  "heroVideo": null,
+  "videoEmbed": "https://www.youtube.com/embed/5yODLihW2AY?si=Hjf3fKIcvAqPKU9N&autoplay=1&mute=1&loop=1",
+  "description": "Brand reveal motion piece for Tironi, one of Chile's leading communications and public affairs consultancies.",
+  "challenge": "Create a dynamic reveal that communicates the brand's strategic weight and modern positioning in a single motion piece.",
+  "solution": "Developed a kinetic typography and identity reveal sequence using After Effects, built around the brand's visual system.",
+  "result": "Delivered a polished reveal used across digital channels for the brand's relaunch campaign.",
+  "role": "Motion Designer",
+  "tools": [
+    "After Effects",
+    "Illustrator"
+  ],
+  "duration": "2 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/brand-reveal-tironi/1.png",
+    "/images/projects/brand-reveal-tironi/2.png",
+    "/images/projects/brand-reveal-tironi/4.png",
+    "/images/projects/brand-reveal-tironi/5.png",
+    "/images/projects/brand-reveal-tironi/6.png",
+    "/images/projects/brand-reveal-tironi/Thumbnail.png"
+  ],
+  "featured": true
+}

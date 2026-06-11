@@ -1,0 +1,33 @@
+{
+  "slug": "arauco",
+  "title": "The future of Arauco",
+  "client": "Arauco",
+  "year": "2018",
+  "tags": [
+    "Motion"
+  ],
+  "thumbnail": "/images/projects/arauco/thumb.png",
+  "heroImage": "/images/projects/arauco/hero.png",
+  "heroVideo": null,
+  "videoEmbed": "https://www.youtube.com/embed/dsYGPoe2VnE",
+  "description": "A cinematic brand video for Arauco, one of Latin America's largest forestry companies. The piece communicates the company's scale, environmental commitment, and global reach through a powerful combination of landscape cinematography and motion graphics.",
+  "challenge": "Arauco needed a single video asset that could work across boardroom presentations, LinkedIn, and trade shows simultaneously — communicating both industrial strength and environmental responsibility without compromise.",
+  "solution": "Built a motion design system around Arauco's existing brand guidelines, layering kinetic typography and data-driven sequences over aerial footage to create a visual narrative that travels from forest to finished product. The result feels premium at any screen size.",
+  "result": "The video became the centerpiece of Arauco's 2024 investor relations package and their primary LinkedIn content for two consecutive quarters.",
+  "role": "Motion Designer & Art Director",
+  "tools": [
+    "After Effects",
+    "Premiere",
+    "Illustrator"
+  ],
+  "duration": "5 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/arauco/1.png",
+    "/images/projects/arauco/2.png",
+    "/images/projects/arauco/3.png",
+    "/images/projects/arauco/4.png",
+    "/images/projects/arauco/Thumbnail.png"
+  ],
+  "featured": true
+}

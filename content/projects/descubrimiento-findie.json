@@ -1,0 +1,39 @@
+{
+  "slug": "descubrimiento-findie",
+  "title": "Discover Findie",
+  "client": "Findie",
+  "year": "2024",
+  "tags": [
+    "Motion",
+    "Design",
+    "Art Direction"
+  ],
+  "thumbnail": "/images/projects/descubrimiento-findie/thumb.png",
+  "heroImage": "/images/projects/descubrimiento-findie/hero.png",
+  "heroVideo": null,
+  "videoEmbed": "https://www.youtube.com/embed/gzsx0XNxfl4?si=PZJdB1Z5Lxd_JHrH",
+  "description": "A full animated explainer film for Findie's 'Descubrimiento' product — an independent film discovery platform connecting audiences with curated arthouse and documentary cinema from Latin America and beyond.",
+  "challenge": "Findie needed to explain a nuanced cultural proposition — independent film discovery — to an audience that was unfamiliar with their platform. Generic SaaS-style explainers were off-brand for a company rooted in cinema aesthetics.",
+  "solution": "Created a hand-crafted animation style inspired by vintage film aesthetics: textured backgrounds, film grain overlays, and a color palette drawn from 70s cinema. Every frame was designed to feel like a still from the films Findie celebrates.",
+  "result": "The film drove a 28% increase in new sign-ups during its launch campaign period and was featured in Findie's press kit for regional media coverage.",
+  "role": "Motion Designer & Art Director",
+  "tools": [
+    "After Effects",
+    "Illustrator",
+    "Premiere",
+    "Photoshop"
+  ],
+  "duration": "6 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/descubrimiento-findie/1.png",
+    "/images/projects/descubrimiento-findie/2.png",
+    "/images/projects/descubrimiento-findie/3.png",
+    "/images/projects/descubrimiento-findie/4.png",
+    "/images/projects/descubrimiento-findie/5.png",
+    "/images/projects/descubrimiento-findie/6.png",
+    "/images/projects/descubrimiento-findie/7.png",
+    "/images/projects/descubrimiento-findie/Thumbnail.png"
+  ],
+  "featured": true
+}

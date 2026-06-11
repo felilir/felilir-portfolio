@@ -1,0 +1,34 @@
+{
+  "slug": "enel-aire-acondicionado",
+  "title": "Air conditioner store",
+  "client": "Enel X",
+  "year": "2024",
+  "tags": [
+    "Motion",
+    "Design"
+  ],
+  "thumbnail": "/images/projects/enel-aire-acondicionado/thumb.png",
+  "heroImage": "/images/projects/enel-aire-acondicionado/hero.png",
+  "heroVideo": null,
+  "videoEmbed": "https://www.youtube.com/embed/TQnZODoUfl4",
+  "description": "A companion explainer film to the Recambio campaign, specifically focused on Enel Chile's air conditioning replacement program — helping residential customers understand eligibility requirements, the application process, and installation logistics for energy-efficient AC units.",
+  "challenge": "Air conditioning is a high-stakes purchase decision for Chilean families. Beyond explaining the program mechanics, the film needed to address common objections (cost, installation disruption, reliability) while keeping the message light and accessible.",
+  "solution": "Used the same warm, character-driven animation language as the Recambio film to maintain visual consistency across the campaign suite. Key concern areas were addressed directly in the script, with visual metaphors making complex energy efficiency concepts immediately tangible.",
+  "result": "The film ran as pre-roll on YouTube alongside the main Recambio campaign, achieving a 68% completion rate — significantly above the industry average for explainer content in the utilities sector.",
+  "role": "Motion Designer & Scriptwriter",
+  "tools": [
+    "After Effects",
+    "Illustrator",
+    "Premiere",
+    "Audition"
+  ],
+  "duration": "3 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/enel-aire-acondicionado/1.png",
+    "/images/projects/enel-aire-acondicionado/2.png",
+    "/images/projects/enel-aire-acondicionado/3.png",
+    "/images/projects/enel-aire-acondicionado/Thumbnail.png"
+  ],
+  "featured": false
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "patrimonio",
+  "title": "Come and meet your story",
+  "client": "Bolsa de Santiago",
+  "year": "2024",
+  "tags": [
+    "Design",
+    "Social Media"
+  ],
+  "thumbnail": "/images/projects/patrimonio/thumb.png",
+  "heroImage": "/images/projects/patrimonio/thumb.png",
+  "heroVideo": null,
+  "videoEmbed": null,
+  "description": "A complete digital and print campaign for the Día del Patrimonio (Heritage Day) 2024, commissioned by the Municipality of Concepción. The campaign covered social media content, event signage, and promotional materials highlighting the city's architectural and cultural heritage.",
+  "challenge": "Heritage Day campaigns often feel dusty and institutional — interesting only to those already engaged. The brief was to make cultural heritage feel relevant and exciting to Concepción residents of all ages, especially younger audiences who rarely engage with civic events.",
+  "solution": "Created a vibrant graphic system that contrasts heritage photography with bold, contemporary typography and color. The design treats the city's architecture as a graphic element rather than a backdrop — cropping, layering, and recontextualizing familiar landmarks in unexpected ways.",
+  "result": "The campaign generated 3× the organic social reach of the 2023 edition. Event attendance increased by 22% year-over-year, with the Municipality noting significantly higher engagement from under-35 attendees.",
+  "role": "Art Director & Graphic Designer",
+  "tools": [
+    "Illustrator",
+    "Photoshop",
+    "InDesign"
+  ],
+  "duration": "3 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/patrimonio/1.png",
+    "/images/projects/patrimonio/2.png",
+    "/images/projects/patrimonio/3.png",
+    "/images/projects/patrimonio/4.png",
+    "/images/projects/patrimonio/5.png",
+    "/images/projects/patrimonio/6.png",
+    "/images/projects/patrimonio/7.png",
+    "/images/projects/patrimonio/Logo.png",
+    "/images/projects/patrimonio/Thumbnail.png"
+  ],
+  "featured": false
+}

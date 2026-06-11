@@ -1,0 +1,42 @@
+{
+  "slug": "dubipapel",
+  "title": "Dubipapel store release",
+  "client": "Dubipapel",
+  "year": "2026",
+  "tags": [
+    "Design",
+    "Art Direction",
+    "Social Media"
+  ],
+  "thumbnail": "/images/projects/dubipapel/thumb.png",
+  "heroImage": "/images/projects/dubipapel/thumb.png",
+  "heroVideo": null,
+  "videoEmbed": null,
+  "description": "Visual identity and product photography direction for Dubipapel, a Chilean specialty art supply brand offering curated watercolor papers, acrylic pencils, and fine art stationery. The project covered logo system, product visual standards, and e-commerce photography art direction.",
+  "challenge": "Dubipapel needed to differentiate in a market dominated by international brands with established prestige. As a local Chilean brand, the challenge was building perceived quality and trust from scratch — through design alone.",
+  "solution": "Developed a restrained, elegant identity drawing from art supply aesthetics: clean white space, precise typography, and photography that celebrates material texture. The logo system balances artisan character with the clarity needed for digital retail environments.",
+  "result": "Dubipapel's e-commerce conversion rate increased by 45% in the quarter following the visual refresh. The brand has since expanded to 3 new retail stockists in Santiago.",
+  "role": "Brand Designer & Photography Director",
+  "tools": [
+    "Illustrator",
+    "InDesign",
+    "Photoshop",
+    "Figma"
+  ],
+  "duration": "5 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/dubipapel/1.png",
+    "/images/projects/dubipapel/2.png",
+    "/images/projects/dubipapel/3.png",
+    "/images/projects/dubipapel/4.png",
+    "/images/projects/dubipapel/5.png",
+    "/images/projects/dubipapel/6.png",
+    "/images/projects/dubipapel/7.png",
+    "/images/projects/dubipapel/8.png",
+    "/images/projects/dubipapel/Logo 1.png",
+    "/images/projects/dubipapel/Logo 2.png",
+    "/images/projects/dubipapel/Thumbnail Dubipapel.png"
+  ],
+  "featured": false
+}

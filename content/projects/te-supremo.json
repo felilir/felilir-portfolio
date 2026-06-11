@@ -1,0 +1,37 @@
+{
+  "slug": "te-supremo",
+  "title": "Social media content",
+  "client": "Té Supremo",
+  "year": "2020",
+  "tags": [
+    "Design",
+    "Art Direction",
+    "Social Media"
+  ],
+  "thumbnail": "/images/projects/te-supremo/thumb.jpg",
+  "heroImage": "/images/projects/te-supremo/thumb.jpg",
+  "heroVideo": null,
+  "videoEmbed": null,
+  "description": "Character design, illustration, and social media content for Té Supremo, a Chilean premium tea brand with a playful, personality-forward approach to the market. The project included an original brand mascot, monthly content calendar templates, and live broadcast graphics.",
+  "challenge": "Chilean consumers associate tea with either luxury calm or utility — Té Supremo wanted neither. They wanted to own the playful, fun end of the market, targeting younger audiences who drink tea as part of a lifestyle, not a ritual.",
+  "solution": "Created an original illustrated character — a loose, expressive figure with personality and versatility — that could appear across posts, stickers, packaging, and live streams. The character's visual tone is deliberately imperfect: hand-drawn, energetic, and always slightly surprising.",
+  "result": "Té Supremo's Instagram grew from 800 to 8,400 followers in 6 months post-launch. The mascot character became the brand's most shared asset, with fans creating their own variations and tagging the brand.",
+  "role": "Illustrator & Art Director",
+  "tools": [
+    "Illustrator",
+    "Photoshop",
+    "After Effects"
+  ],
+  "duration": "8 weeks",
+  "liveUrl": null,
+  "gallery": [
+    "/images/projects/te-supremo/1.jpg",
+    "/images/projects/te-supremo/2.png",
+    "/images/projects/te-supremo/3.jpg",
+    "/images/projects/te-supremo/4.png",
+    "/images/projects/te-supremo/5.png",
+    "/images/projects/te-supremo/6.png",
+    "/images/projects/te-supremo/Thumbnail.jpg"
+  ],
+  "featured": false
+}
