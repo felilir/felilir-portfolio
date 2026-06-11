@@ -9,7 +9,8 @@ const tools = [
   "After Effects", "Illustrator", "Photoshop",
   "Figma", "Higgsfield", "Premiere",
   "Midjourney", "Google Antigravity", "Cursor",
-  "Claude Ecosystem", "Affinity", "Framer",
+  "Claude Ecosystem", "Gemini", "Vibe Coding",
+  "Affinity", "Framer",
 ];
 
 const clients = ["Enel Chile", "Té Supremo", "Findie", "Bolsa de Santiago", "DuocUC", "Universidad del Desarrollo", "Arauco", "Tironi"];

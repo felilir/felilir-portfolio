@@ -4,60 +4,40 @@ import { useState } from "react";
 import { motion, useReducedMotion } from "framer-motion";
 import { makeFadeUp } from "@/lib/animations";
 
-interface FormState {
-  name: string;
-  email: string;
-  message: string;
-}
-
 const socialLinks = [
   { label: "LinkedIn", href: "https://linkedin.com/in/felilir" },
   { label: "Instagram", href: "https://instagram.com/felilir" },
 ];
 
+const HorizontalBarcode = () => (
+  <svg width="90" height="20" viewBox="0 0 90 20" fill="currentColor" style={{ color: "#0A0A0A" }}>
+    <rect x="0" y="0" width="3" height="20" />
+    <rect x="5" y="0" width="1" height="20" />
+    <rect x="8" y="0" width="2" height="20" />
+    <rect x="12" y="0" width="4" height="20" />
+    <rect x="18" y="0" width="1" height="20" />
+    <rect x="21" y="0" width="3" height="20" />
+    <rect x="26" y="0" width="1" height="20" />
+    <rect x="29" y="0" width="2" height="20" />
+    <rect x="33" y="0" width="5" height="20" />
+    <rect x="40" y="0" width="1" height="20" />
+    <rect x="43" y="0" width="2" height="20" />
+    <rect x="47" y="0" width="3" height="20" />
+    <rect x="52" y="0" width="1" height="20" />
+    <rect x="55" y="0" width="4" height="20" />
+    <rect x="61" y="0" width="2" height="20" />
+    <rect x="65" y="0" width="1" height="20" />
+    <rect x="68" y="0" width="3" height="20" />
+    <rect x="73" y="0" width="1" height="20" />
+    <rect x="76" y="0" width="2" height="20" />
+    <rect x="80" y="0" width="4" height="20" />
+    <rect x="86" y="0" width="1" height="20" />
+  </svg>
+);
+
 export default function Contact() {
   const shouldReduce = useReducedMotion();
   const fadeUp = makeFadeUp(!!shouldReduce);
-  const [form, setForm] = useState<FormState>({ name: "", email: "", message: "" });
-  const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
-
-  const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
-    setForm({ ...form, [e.target.name]: e.target.value });
-  };
-
-  const handleSubmit = async (e: React.FormEvent) => {
-    e.preventDefault();
-    setStatus("loading");
-    try {
-      const res = await fetch("https://api.web3forms.com/submit", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          access_key: "YOUR_WEB3FORMS_ACCESS_KEY",
-          name: form.name,
-          email: form.email,
-          message: form.message,
-          subject: `New message from ${form.name} — felilir portfolio`,
-        }),
-      });
-      const data = await res.json();
-      if (data.success) { setStatus("success"); setForm({ name: "", email: "", message: "" }); }
-      else setStatus("error");
-    } catch { setStatus("error"); }
-  };
-
-  const inputStyle: React.CSSProperties = {
-    width: "100%",
-    background: "transparent",
-    border: "1px solid rgba(255,255,255,0.15)",
-    borderRadius: "0px",
-    color: "#F5F5F5",
-    fontFamily: "'DM Sans', sans-serif",
-    fontSize: "15px",
-    padding: "14px 16px",
-    outline: "none",
-    transition: "border-color 0.2s ease",
-  };
 
   return (
     <section id="contact" style={{ background: "#0A0A0A", padding: "120px 0" }}>
@@ -104,74 +84,57 @@ export default function Contact() {
             </p>
           </div>
 
-          {/* Success state */}
-          {status === "success" ? (
-            <motion.div
-              initial={{ opacity: 0, y: 20 }}
-              animate={{ opacity: 1, y: 0 }}
-              style={{ background: "#111", border: "1px solid #6EFF00", borderRadius: "0px", padding: "32px", textAlign: "center" }}
-            >
-              <p style={{ fontFamily: "'Space Grotesk', sans-serif", fontWeight: 700, fontSize: "24px", color: "#6EFF00", marginBottom: "8px" }}>
-                Message sent ✓
-              </p>
-              <p style={{ fontFamily: "'DM Sans', sans-serif", color: "#5A5A5A", fontSize: "15px" }}>
-                I&apos;ll get back to you within 24–48 hours.
-              </p>
-            </motion.div>
-          ) : (
-            <form onSubmit={handleSubmit} style={{ display: "flex", flexDirection: "column", gap: "16px" }}>
-              {/* Name */}
-              <div>
-                <label htmlFor="contact-name" style={{ display: "block", fontFamily: "'Space Grotesk', sans-serif", fontSize: "12px", color: "#5A5A5A", letterSpacing: "0.08em", textTransform: "uppercase", marginBottom: "8px" }}>Name</label>
-                <input id="contact-name" name="name" type="text" required value={form.name} onChange={handleChange} placeholder="Your name" style={inputStyle}
-                  onFocus={(e) => ((e.target as HTMLElement).style.borderColor = "#6EFF00")}
-                  onBlur={(e) => ((e.target as HTMLElement).style.borderColor = "rgba(255,255,255,0.15)")}
-                />
+          {/* WhatsApp Card Button */}
+          <motion.a
+            href="https://wa.me/56972617870"
+            target="_blank"
+            rel="noopener noreferrer"
+            whileHover={{ y: -6, scale: 1.01, boxShadow: "0 12px 32px rgba(110,255,0,0.3)" }}
+            transition={{ type: "spring", stiffness: 300, damping: 20 }}
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              justifyContent: "space-between",
+              background: "#6EFF00",
+              color: "#0A0A0A",
+              padding: "32px",
+              fontFamily: "'Space Grotesk', sans-serif",
+              textDecoration: "none",
+              minHeight: "220px",
+              boxShadow: "0 8px 24px rgba(0,0,0,0.15)",
+              width: "100%",
+              cursor: "pointer",
+            }}
+          >
+            {/* Top row */}
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+              <div style={{ fontSize: "10px", fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase" }}>
+                FL—COMMUNICATION SYSTEM
               </div>
-              {/* Email */}
-              <div>
-                <label htmlFor="contact-email" style={{ display: "block", fontFamily: "'Space Grotesk', sans-serif", fontSize: "12px", color: "#5A5A5A", letterSpacing: "0.08em", textTransform: "uppercase", marginBottom: "8px" }}>Email</label>
-                <input id="contact-email" name="email" type="email" required value={form.email} onChange={handleChange} placeholder="your@email.com" style={inputStyle}
-                  onFocus={(e) => ((e.target as HTMLElement).style.borderColor = "#6EFF00")}
-                  onBlur={(e) => ((e.target as HTMLElement).style.borderColor = "rgba(255,255,255,0.15)")}
-                />
+              <div style={{ fontSize: "20px", fontWeight: 700 }}>
+                ↗
               </div>
-              {/* Message */}
-              <div>
-                <label htmlFor="contact-message" style={{ display: "block", fontFamily: "'Space Grotesk', sans-serif", fontSize: "12px", color: "#5A5A5A", letterSpacing: "0.08em", textTransform: "uppercase", marginBottom: "8px" }}>Message</label>
-                <textarea id="contact-message" name="message" required value={form.message} onChange={handleChange} placeholder="Tell me about your project..." rows={5} style={{ ...inputStyle, resize: "vertical" }}
-                  onFocus={(e) => ((e.target as HTMLElement).style.borderColor = "#6EFF00")}
-                  onBlur={(e) => ((e.target as HTMLElement).style.borderColor = "rgba(255,255,255,0.15)")}
-                />
-              </div>
+            </div>
 
-              {status === "error" && (
-                <p style={{ fontFamily: "'Space Grotesk', sans-serif", fontSize: "14px", color: "#ff4444" }}>Something went wrong. Please try again.</p>
-              )}
+            {/* Middle row */}
+            <div style={{ fontSize: "clamp(24px, 5vw, 40px)", lineHeight: "0.9", fontWeight: 800, textTransform: "uppercase", letterSpacing: "-0.03em", margin: "24px 0" }}>
+              <div>CHAT ON WHATSAPP</div>
+              <div style={{ fontSize: "12px", fontWeight: 500, letterSpacing: "0.05em", color: "rgba(10,10,10,0.6)", marginTop: "8px" }}>
+                START A CONVERSATION · AVAILABLE FOR PROJECTS
+              </div>
+            </div>
 
-              <button
-                type="submit"
-                disabled={status === "loading"}
-                style={{
-                  alignSelf: "flex-end",
-                  background: "#6EFF00",
-                  color: "#0A0A0A",
-                  border: "none",
-                  padding: "14px 32px",
-                  borderRadius: "0px",
-                  fontFamily: "'Space Grotesk', sans-serif",
-                  fontSize: "15px",
-                  fontWeight: 700,
-                  cursor: status === "loading" ? "wait" : "pointer",
-                  transition: "opacity 0.2s ease"
-                }}
-                onMouseEnter={(e) => { if (status !== "loading") (e.currentTarget as HTMLElement).style.opacity = "0.85"; }}
-                onMouseLeave={(e) => { if (status !== "loading") (e.currentTarget as HTMLElement).style.opacity = "1"; }}
-              >
-                {status === "loading" ? "Sending..." : "Send →"}
-              </button>
-            </form>
-          )}
+            {/* Bottom row */}
+            <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-end", flexWrap: "wrap", gap: "16px" }}>
+              <div>
+                <div style={{ fontSize: "13px", fontWeight: 700 }}>+56 9 7261 7870</div>
+                <div style={{ fontSize: "9px", color: "rgba(10,10,10,0.5)", marginTop: "2px" }}>HOLAFELILIR@GMAIL.COM</div>
+              </div>
+              <div>
+                <HorizontalBarcode />
+              </div>
+            </div>
+          </motion.a>
 
           {/* Socials */}
           <div style={{ display: "flex", gap: "32px", flexWrap: "wrap", paddingTop: "24px", borderTop: "1px solid rgba(255,255,255,0.15)" }}>
